@@ -66,19 +66,19 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 <div style="display: flex;">
 
-<a href="https://www.linkedin.com/in/nazishparvez/" target="_blank" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/nazishparvez/" target="_blank">
 <img src="./assets/linkedin.png" alt="" style="width:52px; height:52px;">
 </a>
 
-<a href="https://github.com/nazish-parvez" target="_blank" style="text-decoration:none;">
+<a href="https://github.com/nazish-parvez" target="_blank">
 <img src="./assets/github.png" alt="" style="width:52px; height:52px;">
 </a>
 
-<a href="https://www.instagram.com/nazishhhhhhhhhhhhh?igsh=MW1rN3hnNWFrMXJ2NQ==" target="_blank" style="text-decoration:none;">
+<a href="https://www.instagram.com/nazishhhhhhhhhhhhh?igsh=MW1rN3hnNWFrMXJ2NQ==" target="_blank">
 <img src="./assets/instagram.png" alt="" style="width:52px; height:52px;">
 </a>
 
-<a href="https://x.com/nazish_parvez?t=Xd9zFghc_BYFwHZK4w9JZA&s=09" target="_blank" style="text-decoration:none;">
+<a href="https://x.com/nazish_parvez?t=Xd9zFghc_BYFwHZK4w9JZA&s=09" target="_blank">
 <img src="./assets/x.png" alt="" style="width:52px; height:52px;">
 </a>
 
