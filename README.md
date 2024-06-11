@@ -71,7 +71,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </a>
 
 <a href="https://github.com/nazish-parvez" target="_blank">
-<img src="./assets/github.png" alt="" style="width:52px; height:52px;">
+<img src="./assets/github.png"  style="width:52px; height:52px;">
 </a>
 
 <a href="https://www.instagram.com/nazishhhhhhhhhhhhh?igsh=MW1rN3hnNWFrMXJ2NQ==" target="_blank">
