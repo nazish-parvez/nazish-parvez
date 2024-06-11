@@ -67,7 +67,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 <div style="display: flex;">
 
 <a href="https://www.linkedin.com/in/nazishparvez/" target="_blank">
-<img src="./assets/linkedin.png" alt="" style="width:52px; height:52px;">
+<img src="./assets/linkedin.png"  style="width:52px; height:52px;">
 </a>
 
 <a href="https://github.com/nazish-parvez" target="_blank">
