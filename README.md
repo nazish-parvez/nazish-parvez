@@ -75,7 +75,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 </a>
 
 <a href="https://www.instagram.com/nazishhhhhhhhhhhhh?igsh=MW1rN3hnNWFrMXJ2NQ==" target="_blank">
-<img src="./assets/instagram.png" alt="" style="width:52px; height:52px;">
+<img src="./assets/instagram.png" style="width:52px; height:52px;">
 </a>
 
 <a href="https://x.com/nazish_parvez?t=Xd9zFghc_BYFwHZK4w9JZA&s=09" target="_blank">
