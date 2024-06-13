@@ -58,7 +58,7 @@ Let's connect and explore how I can add value to your team and contribute to mea
 
 </div>
 
-<!-- Connect With M -->
+<!-- Connect With Me -->
 
 <div>
 
