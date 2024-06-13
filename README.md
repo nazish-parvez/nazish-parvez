@@ -3,7 +3,7 @@
 <img src="./assets/a.png" alt="banner">
 </div>
 
-<!-- About M -->
+<!-- About Me -->
 
 <div>
 
