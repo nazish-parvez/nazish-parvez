@@ -1,4 +1,4 @@
-<!-- Banne -->
+<!-- Banner -->
 <div>
 <img src="./assets/a.png" alt="banner">
 </div>
