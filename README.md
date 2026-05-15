@@ -17,13 +17,13 @@ I have hands-on experience with React.js, Next.js, Node.js, Express.js, MongoDB,
 
 Along with development, I'm continuously learning about system design, backend scalability, DevOps, Docker, cloud technologies, and distributed systems to improve my software engineering skills and build production-ready applications.
 
-I'm interested in:
-• Full Stack Web Development
-• Backend Development & API Design
-• Responsive UI Development
-• Authentication & Security
-• Performance Optimization & Scalability
-• System Design & Modern Software Engineering
+I'm interested in:<br/>
+• Full Stack Web Development<br/>
+• Backend Development & API Design<br/>
+• Responsive UI Development<br/>
+• Authentication & Security<br/>
+• Performance Optimization & Scalability<br/>
+• System Design & Modern Software Engineering<br/>
 
 Currently looking for opportunities to learn, contribute, and grow as a Software Engineer / Full Stack Developer while building impactful products.
 </p>
