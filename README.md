@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div>
-<img src="./assets/a.png" alt="banner">
+<img src="./assets/banner.png" alt="banner">
 </div>
 
 <!-- About Me -->
